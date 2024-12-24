@@ -1,0 +1,1001 @@
+Order_ID,Product,Category,Quantity,Price,Order_Date,Customer_Country,Region,Total_Sales
+ORD1000,Headphones,Accessories,3,361.0,2022-11-07,Australia,Europe,1083.0
+ORD1001,Charger,Accessories,4,45.32,2022-12-24,Brazil,Australia,181.28
+ORD1002,Tablet,Accessories,1,44.92,2022-06-03,Brazil,South America,44.92
+ORD1003,Charger,Accessories,4,15.93,2022-09-17,China,Australia,63.72
+ORD1004,Charger,Accessories,3,478.69,2022-04-18,India,Asia,1436.07
+ORD1005,Smartphone,Electronics,1,371.38,2022-10-12,India,Europe,371.38
+ORD1006,Tablet,Accessories,3,183.09,2022-02-28,France,Australia,549.27
+ORD1007,Tablet,Electronics,3,155.3,2022-05-05,France,Asia,465.9
+ORD1008,Tablet,Accessories,2,181.35,2022-12-20,Brazil,Australia,362.7
+ORD1009,Charger,Electronics,1,389.58,2022-09-30,China,South America,389.58
+ORD1010,Headphones,Accessories,2,334.07,2022-04-17,Brazil,South America,668.14
+ORD1011,Tablet,Electronics,1,100.75,2022-10-26,France,South America,100.75
+ORD1012,Charger,Accessories,3,95.31,2022-09-02,USA,South America,285.93
+ORD1013,Smartphone,Electronics,3,58.21,2022-12-02,USA,North America,174.63
+ORD1014,Headphones,Accessories,4,333.55,2022-09-04,Australia,Asia,1334.2
+ORD1015,Smartphone,Electronics,1,384.54,2022-01-08,Canada,Asia,384.54
+ORD1016,Headphones,Accessories,2,139.87,2022-05-21,India,South America,279.74
+ORD1017,Charger,Electronics,4,20.26,2022-12-28,China,North America,81.04
+ORD1018,Laptop,Electronics,4,50.26,2022-01-08,Germany,South America,201.04
+ORD1019,Headphones,Accessories,4,484.25,2022-12-18,India,North America,1937.0
+ORD1020,Smartphone,Accessories,2,154.77,2022-04-04,Germany,South America,309.54
+ORD1021,Charger,Electronics,4,386.92,2022-11-17,Canada,Europe,1547.68
+ORD1022,Headphones,Accessories,2,316.09,2022-02-08,Canada,Europe,632.18
+ORD1023,Laptop,Electronics,4,197.15,2022-03-22,Brazil,Australia,788.6
+ORD1024,Laptop,Electronics,2,110.79,2022-07-06,France,South America,221.58
+ORD1025,Tablet,Electronics,3,69.48,2022-03-25,Canada,Asia,208.44
+ORD1026,Tablet,Accessories,3,311.36,2022-03-29,Canada,Australia,934.08
+ORD1027,Smartphone,Electronics,3,389.57,2022-08-30,Germany,Europe,1168.71
+ORD1028,Headphones,Electronics,3,325.51,2022-12-08,France,South America,976.53
+ORD1029,Headphones,Accessories,3,269.85,2022-04-03,Canada,Australia,809.55
+ORD1030,Tablet,Accessories,4,30.56,2022-03-27,India,South America,122.24
+ORD1031,Headphones,Accessories,4,484.56,2022-02-13,Australia,Europe,1938.24
+ORD1032,Headphones,Accessories,4,401.37,2022-05-17,Canada,Australia,1605.48
+ORD1033,Laptop,Electronics,2,153.48,2022-03-15,Australia,Europe,306.96
+ORD1034,Tablet,Electronics,2,490.19,2022-02-05,France,North America,980.38
+ORD1035,Charger,Electronics,2,304.92,2022-04-11,Brazil,Europe,609.84
+ORD1036,Tablet,Electronics,2,295.39,2022-06-05,China,South America,590.78
+ORD1037,Charger,Accessories,3,376.56,2022-09-12,France,Asia,1129.68
+ORD1038,Laptop,Electronics,3,407.77,2022-06-20,Germany,Europe,1223.31
+ORD1039,Smartphone,Electronics,3,331.67,2022-08-04,China,Asia,995.01
+ORD1040,Headphones,Accessories,1,72.77,2022-06-19,India,North America,72.77
+ORD1041,Laptop,Electronics,4,175.75,2022-09-09,USA,Australia,703.0
+ORD1042,Headphones,Electronics,2,464.76,2022-12-26,Australia,Australia,929.52
+ORD1043,Smartphone,Electronics,2,120.06,2022-11-18,Australia,Asia,240.12
+ORD1044,Smartphone,Electronics,3,192.36,2022-02-24,Australia,Australia,577.08
+ORD1045,Laptop,Electronics,2,221.72,2022-04-01,France,Europe,443.44
+ORD1046,Smartphone,Electronics,2,225.31,2022-10-05,Australia,Asia,450.62
+ORD1047,Charger,Accessories,4,310.34,2022-04-11,Brazil,South America,1241.36
+ORD1048,Smartphone,Accessories,3,472.11,2022-06-04,Australia,Europe,1416.33
+ORD1049,Headphones,Electronics,4,127.94,2022-12-15,Germany,Europe,511.76
+ORD1050,Headphones,Electronics,1,69.54,2022-12-30,India,Europe,69.54
+ORD1051,Headphones,Accessories,1,106.76,2022-05-21,Australia,South America,106.76
+ORD1052,Headphones,Electronics,1,444.59,2022-06-22,Australia,North America,444.59
+ORD1053,Charger,Electronics,3,326.45,2022-01-10,China,Australia,979.35
+ORD1054,Tablet,Electronics,2,150.09,2022-08-16,India,Asia,300.18
+ORD1055,Laptop,Accessories,3,409.81,2022-09-22,Australia,North America,1229.43
+ORD1056,Headphones,Electronics,3,432.07,2022-09-05,France,Asia,1296.21
+ORD1057,Smartphone,Accessories,2,424.79,2022-09-04,Canada,Australia,849.58
+ORD1058,Headphones,Electronics,4,460.27,2022-06-04,Brazil,South America,1841.08
+ORD1059,Smartphone,Accessories,1,133.6,2022-02-03,France,Europe,133.6
+ORD1060,Smartphone,Accessories,4,379.97,2022-05-09,USA,Europe,1519.88
+ORD1061,Headphones,Electronics,1,235.66,2022-06-09,France,South America,235.66
+ORD1062,Charger,Accessories,3,422.58,2022-03-30,China,North America,1267.74
+ORD1063,Smartphone,Electronics,1,366.96,2022-04-03,China,North America,366.96
+ORD1064,Smartphone,Accessories,3,390.46,2022-11-23,Australia,Asia,1171.38
+ORD1065,Headphones,Electronics,4,331.52,2022-08-29,France,South America,1326.08
+ORD1066,Smartphone,Electronics,3,96.94,2022-11-19,China,North America,290.82
+ORD1067,Smartphone,Accessories,4,277.06,2022-04-27,Canada,South America,1108.24
+ORD1068,Headphones,Electronics,2,492.49,2022-04-04,India,Australia,984.98
+ORD1069,Headphones,Electronics,2,469.32,2022-06-12,France,Europe,938.64
+ORD1070,Laptop,Accessories,2,31.16,2022-04-09,Brazil,Europe,62.32
+ORD1071,Charger,Electronics,3,90.76,2022-04-23,Canada,Europe,272.28
+ORD1072,Charger,Electronics,2,74.55,2022-12-25,Australia,South America,149.1
+ORD1073,Smartphone,Accessories,1,365.73,2022-04-01,India,South America,365.73
+ORD1074,Charger,Accessories,4,410.71,2022-12-12,Brazil,Asia,1642.84
+ORD1075,Smartphone,Electronics,4,114.62,2022-07-25,Australia,Europe,458.48
+ORD1076,Laptop,Electronics,1,257.87,2022-01-17,Brazil,Asia,257.87
+ORD1077,Headphones,Accessories,3,421.94,2022-10-01,Australia,Europe,1265.82
+ORD1078,Headphones,Accessories,3,369.07,2022-06-22,Brazil,Asia,1107.21
+ORD1079,Headphones,Electronics,4,275.7,2022-04-26,India,Asia,1102.8
+ORD1080,Charger,Accessories,2,299.27,2022-12-15,Canada,Australia,598.54
+ORD1081,Laptop,Electronics,3,259.1,2022-06-30,Brazil,Asia,777.3
+ORD1082,Charger,Electronics,3,155.8,2022-04-01,Brazil,South America,467.4
+ORD1083,Charger,Electronics,1,286.86,2022-03-23,Germany,Asia,286.86
+ORD1084,Laptop,Electronics,1,347.55,2022-11-20,France,Europe,347.55
+ORD1085,Laptop,Electronics,2,437.93,2022-04-24,India,Asia,875.86
+ORD1086,Laptop,Accessories,3,321.78,2022-09-14,Australia,North America,965.34
+ORD1087,Laptop,Accessories,3,382.95,2022-02-27,India,Europe,1148.85
+ORD1088,Headphones,Accessories,1,88.44,2022-06-03,China,North America,88.44
+ORD1089,Tablet,Accessories,3,236.16,2022-12-31,Australia,Europe,708.48
+ORD1090,Tablet,Electronics,4,14.57,2022-04-26,India,South America,58.28
+ORD1091,Laptop,Electronics,1,130.87,2022-12-09,Canada,South America,130.87
+ORD1092,Tablet,Electronics,2,365.97,2022-09-23,Australia,South America,731.94
+ORD1093,Tablet,Electronics,1,495.99,2022-11-11,Australia,North America,495.99
+ORD1094,Laptop,Accessories,3,58.6,2022-07-22,India,Australia,175.8
+ORD1095,Tablet,Electronics,2,206.73,2022-02-10,Australia,Europe,413.46
+ORD1096,Charger,Electronics,1,402.03,2022-04-15,Germany,South America,402.03
+ORD1097,Smartphone,Accessories,4,109.98,2022-07-12,France,Europe,439.92
+ORD1098,Smartphone,Accessories,4,281.99,2022-10-05,Australia,North America,1127.96
+ORD1099,Laptop,Accessories,1,369.2,2022-12-20,France,Australia,369.2
+ORD1100,Headphones,Accessories,4,311.83,2022-08-25,India,North America,1247.32
+ORD1101,Laptop,Electronics,4,102.13,2022-08-09,Brazil,Europe,408.52
+ORD1102,Headphones,Electronics,4,184.14,2022-03-09,USA,Australia,736.56
+ORD1103,Smartphone,Accessories,2,394.06,2022-07-16,USA,Australia,788.12
+ORD1104,Laptop,Electronics,4,281.57,2022-09-13,Brazil,North America,1126.28
+ORD1105,Charger,Electronics,4,12.56,2022-05-19,Brazil,South America,50.24
+ORD1106,Tablet,Electronics,4,382.89,2022-11-08,Brazil,Europe,1531.56
+ORD1107,Headphones,Accessories,2,27.3,2022-05-29,Canada,Asia,54.6
+ORD1108,Tablet,Electronics,1,375.41,2022-04-09,USA,Asia,375.41
+ORD1109,Tablet,Accessories,3,109.22,2022-03-17,Brazil,North America,327.66
+ORD1110,Laptop,Electronics,4,479.46,2022-10-09,Canada,Europe,1917.84
+ORD1111,Tablet,Electronics,1,190.29,2022-04-19,China,Europe,190.29
+ORD1112,Charger,Electronics,4,170.2,2022-07-07,Australia,North America,680.8
+ORD1113,Tablet,Accessories,2,82.96,2022-07-18,Canada,Europe,165.92
+ORD1114,Laptop,Electronics,1,159.75,2022-10-30,USA,South America,159.75
+ORD1115,Charger,Accessories,2,439.56,2022-11-23,India,North America,879.12
+ORD1116,Smartphone,Accessories,4,498.2,2022-06-03,China,South America,1992.8
+ORD1117,Tablet,Accessories,4,190.47,2022-02-09,USA,Europe,761.88
+ORD1118,Laptop,Electronics,2,229.82,2022-05-13,Australia,North America,459.64
+ORD1119,Smartphone,Electronics,3,363.81,2022-05-12,Canada,Europe,1091.43
+ORD1120,Smartphone,Electronics,2,444.24,2022-10-06,Germany,North America,888.48
+ORD1121,Headphones,Electronics,4,300.59,2022-12-28,France,Europe,1202.36
+ORD1122,Charger,Accessories,2,201.85,2022-03-25,Australia,South America,403.7
+ORD1123,Tablet,Accessories,3,212.18,2022-08-30,USA,South America,636.54
+ORD1124,Laptop,Accessories,2,350.85,2022-04-26,Brazil,Europe,701.7
+ORD1125,Headphones,Electronics,3,11.58,2022-04-19,Canada,North America,34.74
+ORD1126,Charger,Accessories,3,313.6,2022-08-09,Brazil,Asia,940.8
+ORD1127,Headphones,Electronics,2,184.19,2022-02-10,Brazil,South America,368.38
+ORD1128,Charger,Accessories,2,399.16,2022-05-27,Brazil,South America,798.32
+ORD1129,Charger,Electronics,1,55.57,2022-04-22,Brazil,Asia,55.57
+ORD1130,Tablet,Electronics,4,298.22,2022-04-13,Brazil,Europe,1192.88
+ORD1131,Charger,Accessories,3,245.68,2022-02-15,China,North America,737.04
+ORD1132,Headphones,Accessories,1,324.74,2022-11-20,USA,Europe,324.74
+ORD1133,Charger,Accessories,2,41.78,2022-09-28,Australia,Australia,83.56
+ORD1134,Tablet,Accessories,4,294.19,2022-07-14,USA,South America,1176.76
+ORD1135,Tablet,Electronics,1,285.13,2022-10-07,Australia,Australia,285.13
+ORD1136,Headphones,Accessories,3,284.72,2022-10-10,France,South America,854.16
+ORD1137,Smartphone,Accessories,1,305.71,2022-02-09,Canada,South America,305.71
+ORD1138,Smartphone,Accessories,3,341.47,2022-07-08,Germany,Australia,1024.41
+ORD1139,Charger,Electronics,2,404.44,2022-06-13,China,Australia,808.88
+ORD1140,Laptop,Electronics,4,142.21,2022-01-24,Canada,Europe,568.84
+ORD1141,Charger,Accessories,4,414.27,2022-01-24,China,Australia,1657.08
+ORD1142,Headphones,Electronics,4,254.15,2022-01-04,Australia,Europe,1016.6
+ORD1143,Headphones,Accessories,2,47.76,2022-11-19,USA,Europe,95.52
+ORD1144,Headphones,Electronics,3,38.69,2022-10-17,Brazil,Europe,116.07
+ORD1145,Headphones,Electronics,2,173.78,2022-06-30,France,South America,347.56
+ORD1146,Headphones,Electronics,4,394.6,2022-09-05,France,South America,1578.4
+ORD1147,Tablet,Electronics,2,356.76,2022-04-26,India,Australia,713.52
+ORD1148,Smartphone,Accessories,2,396.42,2022-10-06,Germany,South America,792.84
+ORD1149,Headphones,Accessories,2,263.46,2022-12-31,France,Australia,526.92
+ORD1150,Laptop,Accessories,3,225.7,2022-03-10,Brazil,South America,677.1
+ORD1151,Laptop,Electronics,1,82.25,2022-12-17,USA,North America,82.25
+ORD1152,Laptop,Accessories,1,170.81,2022-09-11,Germany,North America,170.81
+ORD1153,Laptop,Accessories,2,222.67,2022-06-30,Australia,Australia,445.34
+ORD1154,Tablet,Accessories,1,53.41,2022-11-14,Canada,South America,53.41
+ORD1155,Laptop,Electronics,1,118.1,2022-06-18,Australia,South America,118.1
+ORD1156,Headphones,Electronics,2,303.13,2022-11-09,Brazil,Europe,606.26
+ORD1157,Charger,Electronics,2,370.47,2022-09-06,Brazil,Asia,740.94
+ORD1158,Laptop,Accessories,4,499.19,2022-07-07,France,Australia,1996.76
+ORD1159,Tablet,Accessories,1,467.23,2022-02-23,Germany,Asia,467.23
+ORD1160,Tablet,Accessories,3,324.86,2022-11-22,USA,Asia,974.58
+ORD1161,Laptop,Electronics,2,216.41,2022-12-23,Australia,Australia,432.82
+ORD1162,Charger,Electronics,4,321.73,2022-11-09,India,South America,1286.92
+ORD1163,Laptop,Accessories,3,394.97,2022-05-18,Australia,Australia,1184.91
+ORD1164,Tablet,Electronics,1,67.98,2022-06-17,China,Asia,67.98
+ORD1165,Smartphone,Electronics,4,210.85,2022-04-13,China,South America,843.4
+ORD1166,Headphones,Electronics,2,421.5,2022-03-26,USA,North America,843.0
+ORD1167,Tablet,Electronics,3,198.08,2022-11-13,USA,Australia,594.24
+ORD1168,Laptop,Accessories,2,290.22,2022-07-31,China,Australia,580.44
+ORD1169,Headphones,Electronics,1,298.01,2022-01-03,India,South America,298.01
+ORD1170,Laptop,Electronics,3,100.39,2022-06-28,Germany,North America,301.17
+ORD1171,Laptop,Electronics,1,187.5,2022-12-08,China,North America,187.5
+ORD1172,Smartphone,Electronics,1,173.91,2022-10-30,USA,South America,173.91
+ORD1173,Headphones,Accessories,4,22.84,2022-11-28,France,Europe,91.36
+ORD1174,Headphones,Accessories,2,21.85,2022-02-07,Canada,Australia,43.7
+ORD1175,Smartphone,Electronics,3,417.53,2022-08-27,India,Australia,1252.59
+ORD1176,Tablet,Electronics,1,143.8,2022-06-18,Brazil,Asia,143.8
+ORD1177,Laptop,Electronics,1,263.86,2022-12-09,India,South America,263.86
+ORD1178,Charger,Electronics,3,156.38,2022-11-10,France,Asia,469.14
+ORD1179,Laptop,Electronics,1,470.93,2022-11-02,France,Asia,470.93
+ORD1180,Laptop,Electronics,4,137.06,2022-01-30,Brazil,North America,548.24
+ORD1181,Tablet,Accessories,4,220.53,2022-07-09,Australia,Australia,882.12
+ORD1182,Laptop,Electronics,4,437.64,2022-12-23,USA,Asia,1750.56
+ORD1183,Smartphone,Accessories,4,422.55,2022-01-25,China,North America,1690.2
+ORD1184,Smartphone,Accessories,1,101.19,2022-04-22,Australia,South America,101.19
+ORD1185,Headphones,Electronics,3,403.3,2022-07-25,Germany,Asia,1209.9
+ORD1186,Charger,Accessories,3,234.51,2022-07-04,India,Australia,703.53
+ORD1187,Laptop,Accessories,3,246.65,2022-02-16,Brazil,Asia,739.95
+ORD1188,Laptop,Accessories,3,75.41,2022-08-16,India,South America,226.23
+ORD1189,Tablet,Accessories,2,49.49,2022-02-08,Australia,Asia,98.98
+ORD1190,Smartphone,Accessories,3,366.69,2022-01-16,France,Australia,1100.07
+ORD1191,Charger,Accessories,2,253.27,2022-01-22,China,North America,506.54
+ORD1192,Headphones,Electronics,2,224.06,2022-08-01,India,Australia,448.12
+ORD1193,Smartphone,Accessories,4,367.46,2022-11-06,Germany,North America,1469.84
+ORD1194,Headphones,Accessories,2,385.1,2022-05-29,France,Europe,770.2
+ORD1195,Tablet,Accessories,1,87.87,2022-08-29,Germany,Australia,87.87
+ORD1196,Tablet,Electronics,2,309.01,2022-09-29,China,Australia,618.02
+ORD1197,Laptop,Accessories,4,76.32,2022-02-28,India,South America,305.28
+ORD1198,Charger,Electronics,2,378.17,2022-10-14,Canada,Asia,756.34
+ORD1199,Headphones,Accessories,1,331.91,2022-07-21,Australia,North America,331.91
+ORD1200,Smartphone,Electronics,1,478.74,2022-02-01,India,North America,478.74
+ORD1201,Tablet,Electronics,1,43.79,2022-06-11,Australia,South America,43.79
+ORD1202,Laptop,Accessories,4,37.96,2022-09-12,China,South America,151.84
+ORD1203,Laptop,Accessories,4,148.27,2022-09-11,India,Asia,593.08
+ORD1204,Headphones,Electronics,3,138.24,2022-01-09,Australia,Asia,414.72
+ORD1205,Tablet,Accessories,4,131.02,2022-05-19,Brazil,Australia,524.08
+ORD1206,Charger,Electronics,1,454.06,2022-01-10,Australia,Europe,454.06
+ORD1207,Tablet,Electronics,1,132.28,2022-08-02,India,Asia,132.28
+ORD1208,Headphones,Electronics,4,143.26,2022-09-30,USA,South America,573.04
+ORD1209,Headphones,Electronics,2,382.11,2022-11-20,India,Asia,764.22
+ORD1210,Tablet,Electronics,4,230.37,2022-02-17,India,North America,921.48
+ORD1211,Headphones,Accessories,4,390.59,2022-04-21,Australia,Europe,1562.36
+ORD1212,Tablet,Electronics,1,42.03,2022-06-02,Germany,Australia,42.03
+ORD1213,Smartphone,Electronics,3,248.91,2022-05-03,Canada,North America,746.73
+ORD1214,Tablet,Accessories,1,26.47,2022-12-23,Germany,North America,26.47
+ORD1215,Tablet,Electronics,3,40.7,2022-04-12,Australia,Europe,122.1
+ORD1216,Headphones,Accessories,1,454.15,2022-08-29,Germany,Australia,454.15
+ORD1217,Headphones,Accessories,4,78.23,2022-11-17,France,South America,312.92
+ORD1218,Laptop,Accessories,1,270.89,2022-07-10,USA,Australia,270.89
+ORD1219,Laptop,Electronics,1,211.44,2022-08-05,Germany,Asia,211.44
+ORD1220,Smartphone,Electronics,1,180.2,2022-02-20,Brazil,North America,180.2
+ORD1221,Laptop,Electronics,4,450.92,2022-10-19,China,Asia,1803.68
+ORD1222,Tablet,Accessories,4,20.69,2022-03-22,Brazil,South America,82.76
+ORD1223,Headphones,Electronics,4,335.26,2022-03-29,China,Asia,1341.04
+ORD1224,Laptop,Accessories,4,482.06,2022-07-13,India,Australia,1928.24
+ORD1225,Laptop,Electronics,3,284.48,2022-04-14,France,Asia,853.44
+ORD1226,Smartphone,Accessories,3,469.04,2022-09-28,USA,South America,1407.12
+ORD1227,Smartphone,Electronics,2,35.61,2022-04-06,Brazil,South America,71.22
+ORD1228,Tablet,Electronics,4,215.21,2022-07-17,USA,South America,860.84
+ORD1229,Headphones,Electronics,3,137.48,2022-01-01,Brazil,Australia,412.44
+ORD1230,Smartphone,Accessories,1,368.1,2022-06-16,India,South America,368.1
+ORD1231,Laptop,Accessories,4,490.84,2022-05-06,China,North America,1963.36
+ORD1232,Headphones,Electronics,2,135.7,2022-11-09,Canada,South America,271.4
+ORD1233,Headphones,Electronics,2,330.55,2022-03-22,France,Asia,661.1
+ORD1234,Laptop,Accessories,2,107.07,2022-09-08,Brazil,Asia,214.14
+ORD1235,Smartphone,Accessories,1,287.01,2022-06-18,Brazil,Asia,287.01
+ORD1236,Laptop,Accessories,3,237.33,2022-03-14,India,Australia,711.99
+ORD1237,Headphones,Electronics,1,486.28,2022-05-21,France,Asia,486.28
+ORD1238,Charger,Accessories,4,308.18,2022-03-11,China,Australia,1232.72
+ORD1239,Charger,Electronics,2,181.26,2022-09-19,China,Australia,362.52
+ORD1240,Tablet,Accessories,1,65.91,2022-12-06,Brazil,South America,65.91
+ORD1241,Laptop,Electronics,1,84.11,2022-11-04,Canada,North America,84.11
+ORD1242,Laptop,Accessories,3,120.41,2022-09-02,Canada,South America,361.23
+ORD1243,Tablet,Accessories,3,132.97,2022-01-03,USA,South America,398.91
+ORD1244,Tablet,Accessories,2,426.8,2022-12-03,France,Australia,853.6
+ORD1245,Tablet,Accessories,1,285.0,2022-03-04,France,Australia,285.0
+ORD1246,Headphones,Accessories,1,266.46,2022-02-18,China,Asia,266.46
+ORD1247,Laptop,Electronics,3,66.24,2022-03-17,USA,Asia,198.72
+ORD1248,Headphones,Accessories,1,431.47,2022-06-24,India,South America,431.47
+ORD1249,Tablet,Accessories,1,364.18,2022-04-19,France,Europe,364.18
+ORD1250,Laptop,Accessories,1,43.16,2022-07-02,USA,Europe,43.16
+ORD1251,Headphones,Electronics,3,356.84,2022-07-11,USA,Asia,1070.52
+ORD1252,Headphones,Accessories,2,276.33,2022-03-06,Brazil,Europe,552.66
+ORD1253,Tablet,Electronics,4,50.05,2022-12-03,China,Asia,200.2
+ORD1254,Laptop,Accessories,2,234.57,2022-09-28,USA,Australia,469.14
+ORD1255,Tablet,Accessories,4,247.5,2022-04-10,Australia,South America,990.0
+ORD1256,Laptop,Electronics,1,91.23,2022-02-01,Canada,North America,91.23
+ORD1257,Charger,Accessories,2,473.39,2022-12-18,Australia,South America,946.78
+ORD1258,Smartphone,Electronics,4,426.49,2022-05-08,Canada,Asia,1705.96
+ORD1259,Smartphone,Electronics,3,337.82,2022-12-05,Germany,Asia,1013.46
+ORD1260,Smartphone,Accessories,3,236.52,2022-02-12,China,South America,709.56
+ORD1261,Tablet,Electronics,2,211.77,2022-03-19,Brazil,Asia,423.54
+ORD1262,Charger,Accessories,2,328.98,2022-11-10,India,Europe,657.96
+ORD1263,Laptop,Accessories,1,277.26,2022-10-16,Australia,Europe,277.26
+ORD1264,Headphones,Electronics,2,40.51,2022-09-27,Australia,Asia,81.02
+ORD1265,Laptop,Electronics,1,261.13,2022-06-11,Germany,Asia,261.13
+ORD1266,Headphones,Electronics,1,405.14,2022-07-08,Canada,Europe,405.14
+ORD1267,Laptop,Electronics,3,235.03,2022-09-04,Brazil,Asia,705.09
+ORD1268,Charger,Accessories,3,35.46,2022-08-04,Germany,Asia,106.38
+ORD1269,Headphones,Accessories,4,395.28,2022-11-11,China,South America,1581.12
+ORD1270,Tablet,Electronics,3,108.67,2022-12-05,Brazil,North America,326.01
+ORD1271,Laptop,Accessories,3,136.72,2022-06-17,China,Europe,410.16
+ORD1272,Laptop,Accessories,2,90.71,2022-12-05,USA,South America,181.42
+ORD1273,Headphones,Accessories,3,171.81,2022-07-12,France,North America,515.43
+ORD1274,Tablet,Accessories,4,380.81,2022-10-10,USA,Asia,1523.24
+ORD1275,Tablet,Electronics,2,264.5,2022-12-02,China,Asia,529.0
+ORD1276,Charger,Electronics,4,110.39,2022-01-13,Australia,South America,441.56
+ORD1277,Tablet,Accessories,3,440.14,2022-08-28,Brazil,Asia,1320.42
+ORD1278,Tablet,Electronics,4,441.0,2022-11-16,Canada,Australia,1764.0
+ORD1279,Tablet,Electronics,2,436.58,2022-05-27,India,South America,873.16
+ORD1280,Smartphone,Electronics,1,127.01,2022-07-23,Canada,North America,127.01
+ORD1281,Charger,Accessories,4,231.11,2022-03-21,Brazil,South America,924.44
+ORD1282,Laptop,Accessories,4,492.64,2022-02-12,USA,Europe,1970.56
+ORD1283,Headphones,Accessories,2,388.29,2022-03-30,India,South America,776.58
+ORD1284,Laptop,Electronics,2,23.31,2022-05-28,Brazil,Asia,46.62
+ORD1285,Charger,Accessories,4,41.95,2022-04-05,China,Asia,167.8
+ORD1286,Headphones,Accessories,3,237.33,2022-05-31,Australia,Australia,711.99
+ORD1287,Charger,Electronics,4,455.52,2022-01-02,Canada,Australia,1822.08
+ORD1288,Tablet,Accessories,2,273.96,2022-01-22,China,Australia,547.92
+ORD1289,Headphones,Accessories,1,253.93,2022-11-09,India,North America,253.93
+ORD1290,Tablet,Electronics,1,61.68,2022-11-24,India,Australia,61.68
+ORD1291,Laptop,Electronics,3,331.82,2022-01-07,Canada,North America,995.46
+ORD1292,Laptop,Electronics,4,412.83,2022-07-25,China,Australia,1651.32
+ORD1293,Headphones,Accessories,1,196.41,2022-04-24,Germany,North America,196.41
+ORD1294,Headphones,Accessories,4,390.05,2022-09-29,China,South America,1560.2
+ORD1295,Charger,Accessories,2,482.59,2022-03-24,India,South America,965.18
+ORD1296,Charger,Electronics,1,109.85,2022-06-28,China,Asia,109.85
+ORD1297,Tablet,Electronics,3,266.43,2022-07-29,Australia,North America,799.29
+ORD1298,Headphones,Accessories,2,150.7,2022-11-24,Brazil,Europe,301.4
+ORD1299,Laptop,Accessories,3,398.5,2022-05-04,USA,Asia,1195.5
+ORD1300,Charger,Electronics,2,293.02,2022-04-23,Australia,South America,586.04
+ORD1301,Charger,Electronics,1,320.95,2022-01-12,Germany,North America,320.95
+ORD1302,Laptop,Electronics,3,400.98,2022-05-06,France,Australia,1202.94
+ORD1303,Charger,Electronics,3,204.03,2022-02-22,Brazil,Europe,612.09
+ORD1304,Tablet,Accessories,2,458.39,2022-11-27,USA,South America,916.78
+ORD1305,Headphones,Electronics,3,271.18,2022-10-10,France,Asia,813.54
+ORD1306,Laptop,Accessories,2,87.4,2022-05-20,Canada,North America,174.8
+ORD1307,Headphones,Accessories,2,350.99,2022-04-07,France,Europe,701.98
+ORD1308,Charger,Accessories,2,398.7,2022-01-05,Brazil,North America,797.4
+ORD1309,Charger,Electronics,2,165.21,2022-02-26,China,Australia,330.42
+ORD1310,Laptop,Electronics,1,430.02,2022-11-30,Brazil,Asia,430.02
+ORD1311,Tablet,Electronics,2,454.01,2022-03-10,Australia,North America,908.02
+ORD1312,Smartphone,Electronics,4,145.68,2022-04-28,France,South America,582.72
+ORD1313,Laptop,Accessories,3,491.93,2022-02-28,India,Asia,1475.79
+ORD1314,Smartphone,Electronics,4,78.95,2022-02-02,USA,South America,315.8
+ORD1315,Smartphone,Electronics,1,108.99,2022-11-14,USA,North America,108.99
+ORD1316,Tablet,Accessories,4,100.27,2022-02-19,France,Asia,401.08
+ORD1317,Smartphone,Electronics,3,448.05,2022-01-19,USA,South America,1344.15
+ORD1318,Smartphone,Accessories,4,330.6,2022-08-02,India,Australia,1322.4
+ORD1319,Tablet,Accessories,1,84.53,2022-07-16,Brazil,Australia,84.53
+ORD1320,Smartphone,Accessories,2,225.76,2022-02-16,USA,North America,451.52
+ORD1321,Smartphone,Accessories,4,311.5,2022-06-16,France,Asia,1246.0
+ORD1322,Smartphone,Accessories,1,50.9,2022-10-16,Germany,Europe,50.9
+ORD1323,Laptop,Accessories,1,442.38,2022-05-21,Germany,Asia,442.38
+ORD1324,Laptop,Accessories,3,403.77,2022-03-25,Canada,Australia,1211.31
+ORD1325,Laptop,Accessories,3,257.55,2022-07-01,Australia,South America,772.65
+ORD1326,Tablet,Electronics,4,483.89,2022-03-20,USA,Europe,1935.56
+ORD1327,Charger,Electronics,2,214.7,2022-08-03,Australia,North America,429.4
+ORD1328,Smartphone,Electronics,1,492.21,2022-01-14,Brazil,Europe,492.21
+ORD1329,Smartphone,Electronics,4,337.28,2022-08-03,France,North America,1349.12
+ORD1330,Tablet,Accessories,1,320.99,2022-05-08,USA,Europe,320.99
+ORD1331,Smartphone,Electronics,1,91.32,2022-11-06,China,North America,91.32
+ORD1332,Laptop,Accessories,2,442.14,2022-09-05,India,North America,884.28
+ORD1333,Charger,Electronics,2,219.47,2022-01-29,USA,Europe,438.94
+ORD1334,Headphones,Electronics,4,89.49,2022-10-07,USA,Europe,357.96
+ORD1335,Smartphone,Electronics,2,16.18,2022-12-04,Australia,North America,32.36
+ORD1336,Laptop,Accessories,2,284.28,2022-11-15,Australia,Australia,568.56
+ORD1337,Headphones,Electronics,4,268.43,2022-07-21,Germany,Europe,1073.72
+ORD1338,Charger,Accessories,2,362.48,2022-12-27,India,Asia,724.96
+ORD1339,Headphones,Accessories,3,446.23,2022-02-26,France,South America,1338.69
+ORD1340,Laptop,Electronics,1,48.91,2022-08-06,USA,North America,48.91
+ORD1341,Headphones,Electronics,1,368.43,2022-03-03,Germany,North America,368.43
+ORD1342,Tablet,Electronics,1,101.83,2022-06-06,Australia,South America,101.83
+ORD1343,Headphones,Accessories,1,430.51,2022-07-21,Canada,Australia,430.51
+ORD1344,Smartphone,Electronics,4,411.34,2022-01-17,India,South America,1645.36
+ORD1345,Smartphone,Accessories,1,274.99,2022-11-18,Germany,Europe,274.99
+ORD1346,Tablet,Accessories,1,358.02,2022-01-06,Germany,South America,358.02
+ORD1347,Laptop,Electronics,1,164.03,2022-02-27,Brazil,North America,164.03
+ORD1348,Smartphone,Electronics,1,240.87,2022-11-21,Germany,South America,240.87
+ORD1349,Charger,Accessories,3,412.6,2022-11-14,Brazil,Asia,1237.8
+ORD1350,Smartphone,Accessories,1,235.04,2022-06-18,USA,Europe,235.04
+ORD1351,Smartphone,Accessories,3,185.32,2022-03-23,USA,South America,555.96
+ORD1352,Laptop,Electronics,4,252.16,2022-08-07,Australia,North America,1008.64
+ORD1353,Headphones,Accessories,2,415.84,2022-06-26,Canada,Europe,831.68
+ORD1354,Smartphone,Electronics,1,174.25,2022-07-23,China,North America,174.25
+ORD1355,Tablet,Accessories,2,95.14,2022-03-12,China,Australia,190.28
+ORD1356,Headphones,Accessories,2,358.89,2022-09-23,China,Asia,717.78
+ORD1357,Charger,Electronics,4,414.73,2022-04-08,Australia,Australia,1658.92
+ORD1358,Laptop,Accessories,2,59.31,2022-12-11,Brazil,Asia,118.62
+ORD1359,Charger,Electronics,3,127.54,2022-10-18,Australia,South America,382.62
+ORD1360,Headphones,Electronics,2,79.57,2022-07-27,India,Europe,159.14
+ORD1361,Headphones,Accessories,2,180.49,2022-01-02,India,South America,360.98
+ORD1362,Headphones,Electronics,2,230.67,2022-05-04,Canada,Asia,461.34
+ORD1363,Charger,Electronics,1,376.92,2022-10-07,India,Asia,376.92
+ORD1364,Headphones,Accessories,1,329.06,2022-03-15,China,Asia,329.06
+ORD1365,Charger,Electronics,3,314.25,2022-06-15,China,North America,942.75
+ORD1366,Headphones,Electronics,3,182.66,2022-01-22,Australia,Europe,547.98
+ORD1367,Tablet,Electronics,1,422.31,2022-06-03,Germany,South America,422.31
+ORD1368,Headphones,Accessories,3,240.93,2022-10-22,India,South America,722.79
+ORD1369,Charger,Electronics,1,489.76,2022-08-07,Australia,Australia,489.76
+ORD1370,Smartphone,Accessories,4,320.73,2022-06-06,USA,Asia,1282.92
+ORD1371,Headphones,Accessories,2,71.87,2022-08-18,USA,Asia,143.74
+ORD1372,Smartphone,Electronics,2,341.33,2022-01-20,Germany,Asia,682.66
+ORD1373,Tablet,Electronics,3,169.3,2022-02-10,Germany,South America,507.9
+ORD1374,Laptop,Electronics,1,346.3,2022-05-28,Germany,Australia,346.3
+ORD1375,Tablet,Accessories,1,44.12,2022-04-18,Australia,North America,44.12
+ORD1376,Headphones,Electronics,3,95.69,2022-03-25,USA,Europe,287.07
+ORD1377,Smartphone,Electronics,1,429.31,2022-11-18,China,North America,429.31
+ORD1378,Smartphone,Electronics,4,121.32,2022-11-05,Germany,South America,485.28
+ORD1379,Charger,Electronics,2,420.15,2022-10-17,Canada,Asia,840.3
+ORD1380,Smartphone,Electronics,3,146.85,2022-11-19,Brazil,Europe,440.55
+ORD1381,Charger,Accessories,3,325.01,2022-05-14,Australia,South America,975.03
+ORD1382,Laptop,Accessories,1,350.13,2022-07-26,Germany,South America,350.13
+ORD1383,Headphones,Electronics,3,261.2,2022-10-10,Brazil,South America,783.6
+ORD1384,Charger,Electronics,4,159.6,2022-09-23,France,Europe,638.4
+ORD1385,Laptop,Electronics,1,114.2,2022-03-14,Germany,Europe,114.2
+ORD1386,Smartphone,Electronics,1,26.26,2022-12-18,USA,Australia,26.26
+ORD1387,Smartphone,Accessories,1,158.93,2022-02-17,India,Australia,158.93
+ORD1388,Laptop,Electronics,1,330.05,2022-11-22,Germany,North America,330.05
+ORD1389,Smartphone,Accessories,4,469.77,2022-08-21,Australia,Europe,1879.08
+ORD1390,Laptop,Accessories,1,436.89,2022-04-10,India,Europe,436.89
+ORD1391,Charger,Electronics,3,385.37,2022-02-28,France,Europe,1156.11
+ORD1392,Charger,Accessories,4,396.34,2022-09-15,Canada,Australia,1585.36
+ORD1393,Laptop,Accessories,2,335.84,2022-03-06,India,South America,671.68
+ORD1394,Charger,Accessories,2,137.54,2022-03-24,Brazil,Asia,275.08
+ORD1395,Charger,Accessories,3,454.53,2022-06-03,China,Australia,1363.59
+ORD1396,Charger,Electronics,3,338.66,2022-09-23,Germany,Europe,1015.98
+ORD1397,Tablet,Electronics,4,284.62,2022-11-05,France,Australia,1138.48
+ORD1398,Headphones,Accessories,2,64.38,2022-03-20,France,North America,128.76
+ORD1399,Smartphone,Electronics,2,229.06,2022-11-11,India,Europe,458.12
+ORD1400,Tablet,Electronics,2,235.58,2022-05-30,Canada,North America,471.16
+ORD1401,Charger,Electronics,2,433.64,2022-02-17,USA,Europe,867.28
+ORD1402,Laptop,Electronics,2,277.86,2022-09-05,Germany,Australia,555.72
+ORD1403,Charger,Electronics,1,196.4,2022-10-05,France,South America,196.4
+ORD1404,Headphones,Accessories,3,488.63,2022-12-22,Canada,Asia,1465.89
+ORD1405,Charger,Electronics,1,64.25,2022-04-08,China,North America,64.25
+ORD1406,Laptop,Electronics,2,217.05,2022-01-25,France,Australia,434.1
+ORD1407,Headphones,Electronics,4,30.59,2022-10-11,Canada,South America,122.36
+ORD1408,Charger,Electronics,4,372.55,2022-10-28,Australia,Australia,1490.2
+ORD1409,Headphones,Accessories,2,459.86,2022-03-09,USA,North America,919.72
+ORD1410,Smartphone,Accessories,2,147.22,2022-01-07,USA,Asia,294.44
+ORD1411,Smartphone,Accessories,4,430.59,2022-11-01,France,Australia,1722.36
+ORD1412,Charger,Accessories,1,153.19,2022-05-17,Brazil,Europe,153.19
+ORD1413,Headphones,Electronics,1,456.28,2022-06-13,France,South America,456.28
+ORD1414,Laptop,Accessories,2,379.44,2022-03-24,India,Australia,758.88
+ORD1415,Charger,Electronics,1,404.4,2022-05-18,Germany,South America,404.4
+ORD1416,Smartphone,Electronics,4,18.82,2022-03-14,Canada,Europe,75.28
+ORD1417,Smartphone,Electronics,1,481.78,2022-08-25,France,Asia,481.78
+ORD1418,Charger,Electronics,2,366.07,2022-02-15,Germany,Asia,732.14
+ORD1419,Headphones,Electronics,4,159.33,2022-04-16,India,Europe,637.32
+ORD1420,Smartphone,Accessories,1,416.4,2022-10-15,Australia,South America,416.4
+ORD1421,Headphones,Accessories,3,147.95,2022-09-19,Australia,Australia,443.85
+ORD1422,Smartphone,Accessories,4,437.65,2022-06-25,Germany,Europe,1750.6
+ORD1423,Smartphone,Accessories,4,65.16,2022-06-15,France,North America,260.64
+ORD1424,Tablet,Electronics,3,354.81,2022-05-25,USA,South America,1064.43
+ORD1425,Smartphone,Accessories,3,274.94,2022-11-26,Canada,Asia,824.82
+ORD1426,Laptop,Electronics,4,57.3,2022-10-10,Canada,Europe,229.2
+ORD1427,Charger,Accessories,3,128.53,2022-02-23,Australia,Asia,385.59
+ORD1428,Charger,Electronics,2,16.08,2022-06-27,Australia,South America,32.16
+ORD1429,Headphones,Electronics,2,239.7,2022-09-01,USA,Asia,479.4
+ORD1430,Smartphone,Accessories,2,157.62,2022-12-07,Brazil,Europe,315.24
+ORD1431,Laptop,Electronics,4,303.2,2022-05-07,France,South America,1212.8
+ORD1432,Headphones,Electronics,3,155.65,2022-09-28,Australia,North America,466.95
+ORD1433,Tablet,Accessories,3,156.96,2022-05-12,Australia,Europe,470.88
+ORD1434,Headphones,Electronics,1,374.16,2022-04-03,Australia,Australia,374.16
+ORD1435,Headphones,Accessories,1,33.59,2022-03-14,Canada,Europe,33.59
+ORD1436,Smartphone,Accessories,3,452.42,2022-09-05,France,South America,1357.26
+ORD1437,Tablet,Accessories,3,427.61,2022-12-14,India,Europe,1282.83
+ORD1438,Headphones,Electronics,3,337.22,2022-09-30,France,North America,1011.66
+ORD1439,Laptop,Electronics,4,300.68,2022-02-12,Germany,North America,1202.72
+ORD1440,Laptop,Electronics,3,447.23,2022-02-10,USA,Australia,1341.69
+ORD1441,Charger,Accessories,1,100.81,2022-06-19,Brazil,Asia,100.81
+ORD1442,Tablet,Electronics,4,48.69,2022-07-31,Australia,South America,194.76
+ORD1443,Tablet,Accessories,3,127.36,2022-06-17,Australia,South America,382.08
+ORD1444,Charger,Accessories,1,399.34,2022-02-08,France,Asia,399.34
+ORD1445,Headphones,Electronics,4,26.99,2022-09-02,Brazil,North America,107.96
+ORD1446,Tablet,Accessories,3,295.58,2022-05-31,Australia,North America,886.74
+ORD1447,Laptop,Electronics,3,497.76,2022-04-21,Brazil,Europe,1493.28
+ORD1448,Laptop,Electronics,3,429.29,2022-02-16,India,Australia,1287.87
+ORD1449,Smartphone,Electronics,4,265.51,2022-03-04,China,Australia,1062.04
+ORD1450,Tablet,Electronics,1,41.18,2022-08-13,USA,Australia,41.18
+ORD1451,Headphones,Electronics,1,417.37,2022-03-10,Brazil,Europe,417.37
+ORD1452,Charger,Accessories,2,303.5,2022-10-26,Canada,Australia,607.0
+ORD1453,Charger,Accessories,3,66.32,2022-10-17,Germany,Asia,198.96
+ORD1454,Headphones,Accessories,2,55.99,2022-10-23,Canada,Europe,111.98
+ORD1455,Smartphone,Electronics,2,455.72,2022-07-22,Australia,Asia,911.44
+ORD1456,Charger,Electronics,1,337.91,2022-03-02,India,Europe,337.91
+ORD1457,Tablet,Electronics,4,416.35,2022-11-14,India,Australia,1665.4
+ORD1458,Smartphone,Accessories,4,440.7,2022-11-10,Canada,Asia,1762.8
+ORD1459,Tablet,Electronics,1,290.17,2022-06-10,USA,Asia,290.17
+ORD1460,Laptop,Accessories,4,263.55,2022-11-27,Canada,Asia,1054.2
+ORD1461,Smartphone,Accessories,2,220.91,2022-01-16,France,Europe,441.82
+ORD1462,Charger,Electronics,3,165.3,2022-12-04,Australia,South America,495.9
+ORD1463,Smartphone,Electronics,1,222.95,2022-04-04,Australia,Australia,222.95
+ORD1464,Smartphone,Accessories,3,389.2,2022-10-31,Canada,Asia,1167.6
+ORD1465,Smartphone,Electronics,4,304.94,2022-05-18,Germany,South America,1219.76
+ORD1466,Smartphone,Accessories,3,447.34,2022-12-04,Germany,Australia,1342.02
+ORD1467,Tablet,Electronics,4,227.26,2022-02-07,Australia,Australia,909.04
+ORD1468,Laptop,Electronics,4,307.47,2022-05-07,China,Asia,1229.88
+ORD1469,Headphones,Accessories,2,319.34,2022-10-02,Germany,Asia,638.68
+ORD1470,Smartphone,Electronics,4,299.93,2022-06-13,Canada,Europe,1199.72
+ORD1471,Charger,Accessories,2,354.29,2022-11-15,Germany,South America,708.58
+ORD1472,Smartphone,Electronics,2,126.34,2022-03-18,Australia,South America,252.68
+ORD1473,Charger,Accessories,2,261.06,2022-06-23,USA,Asia,522.12
+ORD1474,Tablet,Accessories,1,61.07,2022-12-24,Brazil,Australia,61.07
+ORD1475,Charger,Electronics,1,198.41,2022-11-17,Germany,Asia,198.41
+ORD1476,Headphones,Accessories,4,248.96,2022-04-01,France,Australia,995.84
+ORD1477,Laptop,Electronics,2,329.59,2022-08-26,USA,Australia,659.18
+ORD1478,Charger,Electronics,1,475.76,2022-09-21,China,Asia,475.76
+ORD1479,Charger,Electronics,2,304.32,2022-06-28,France,North America,608.64
+ORD1480,Laptop,Accessories,3,374.36,2022-07-28,Canada,South America,1123.08
+ORD1481,Headphones,Accessories,3,258.07,2022-03-14,Brazil,Australia,774.21
+ORD1482,Smartphone,Electronics,3,320.71,2022-04-17,Canada,Australia,962.13
+ORD1483,Charger,Electronics,4,44.76,2022-12-11,Brazil,North America,179.04
+ORD1484,Laptop,Accessories,2,134.65,2022-10-22,Brazil,Europe,269.3
+ORD1485,Tablet,Electronics,3,187.31,2022-10-11,Canada,North America,561.93
+ORD1486,Laptop,Electronics,1,241.52,2022-12-19,France,North America,241.52
+ORD1487,Tablet,Accessories,3,32.37,2022-07-01,France,Australia,97.11
+ORD1488,Headphones,Electronics,3,78.61,2022-02-06,Brazil,South America,235.83
+ORD1489,Smartphone,Accessories,3,145.64,2022-05-17,France,North America,436.92
+ORD1490,Laptop,Electronics,4,486.05,2022-12-04,Brazil,Europe,1944.2
+ORD1491,Charger,Accessories,1,172.36,2022-02-25,Australia,Asia,172.36
+ORD1492,Headphones,Electronics,2,246.2,2022-07-06,Brazil,North America,492.4
+ORD1493,Laptop,Electronics,1,106.09,2022-12-07,Australia,North America,106.09
+ORD1494,Charger,Accessories,2,309.28,2022-09-15,USA,Europe,618.56
+ORD1495,Laptop,Electronics,4,147.53,2022-02-27,India,South America,590.12
+ORD1496,Tablet,Accessories,4,111.43,2022-12-29,USA,North America,445.72
+ORD1497,Laptop,Electronics,4,263.12,2022-05-03,Canada,North America,1052.48
+ORD1498,Laptop,Accessories,4,12.7,2022-07-07,India,South America,50.8
+ORD1499,Laptop,Accessories,2,13.76,2022-08-18,Germany,Europe,27.52
+ORD1500,Headphones,Accessories,3,117.34,2022-06-17,Canada,North America,352.02
+ORD1501,Laptop,Accessories,2,27.99,2022-04-24,China,South America,55.98
+ORD1502,Charger,Electronics,1,62.93,2022-09-09,USA,North America,62.93
+ORD1503,Tablet,Electronics,4,176.04,2022-04-17,France,Asia,704.16
+ORD1504,Tablet,Accessories,4,403.27,2022-02-06,USA,Australia,1613.08
+ORD1505,Laptop,Accessories,1,290.3,2022-12-01,France,Asia,290.3
+ORD1506,Headphones,Accessories,2,261.21,2022-04-02,India,North America,522.42
+ORD1507,Headphones,Electronics,3,153.81,2022-01-18,China,Europe,461.43
+ORD1508,Charger,Electronics,3,466.56,2022-12-20,India,Australia,1399.68
+ORD1509,Laptop,Electronics,1,204.54,2022-03-04,China,Asia,204.54
+ORD1510,Tablet,Electronics,3,52.68,2022-05-30,USA,South America,158.04
+ORD1511,Headphones,Accessories,2,312.36,2022-05-19,France,Europe,624.72
+ORD1512,Laptop,Accessories,2,65.78,2022-07-05,India,Asia,131.56
+ORD1513,Headphones,Accessories,1,179.16,2022-07-04,China,South America,179.16
+ORD1514,Headphones,Electronics,2,258.63,2022-07-24,Brazil,North America,517.26
+ORD1515,Tablet,Electronics,4,438.37,2022-09-17,Canada,South America,1753.48
+ORD1516,Smartphone,Electronics,1,251.84,2022-08-02,Canada,Asia,251.84
+ORD1517,Charger,Accessories,2,354.11,2022-09-13,India,Asia,708.22
+ORD1518,Charger,Accessories,1,496.48,2022-05-15,France,North America,496.48
+ORD1519,Tablet,Electronics,3,74.43,2022-03-02,Brazil,South America,223.29
+ORD1520,Headphones,Accessories,2,144.62,2022-12-29,India,South America,289.24
+ORD1521,Laptop,Electronics,4,203.34,2022-11-06,USA,North America,813.36
+ORD1522,Headphones,Electronics,2,216.7,2022-03-29,China,South America,433.4
+ORD1523,Tablet,Accessories,1,211.4,2022-11-20,Australia,North America,211.4
+ORD1524,Charger,Electronics,1,454.73,2022-07-26,USA,Europe,454.73
+ORD1525,Headphones,Accessories,2,359.88,2022-05-09,Canada,Asia,719.76
+ORD1526,Charger,Electronics,4,307.87,2022-11-07,China,Europe,1231.48
+ORD1527,Laptop,Accessories,4,161.59,2022-01-03,India,Australia,646.36
+ORD1528,Charger,Accessories,4,413.66,2022-08-30,USA,Australia,1654.64
+ORD1529,Charger,Accessories,1,477.98,2022-05-01,Germany,Australia,477.98
+ORD1530,Smartphone,Electronics,2,412.39,2022-04-12,Australia,North America,824.78
+ORD1531,Smartphone,Electronics,3,10.77,2022-02-07,France,South America,32.31
+ORD1532,Smartphone,Accessories,1,321.84,2022-12-07,Brazil,Europe,321.84
+ORD1533,Charger,Accessories,4,35.06,2022-05-13,Brazil,Europe,140.24
+ORD1534,Tablet,Electronics,2,136.23,2022-07-21,France,Europe,272.46
+ORD1535,Charger,Electronics,4,39.17,2022-12-14,Germany,Europe,156.68
+ORD1536,Tablet,Electronics,3,305.86,2022-01-21,Canada,Australia,917.58
+ORD1537,Tablet,Accessories,4,346.43,2022-08-30,China,Europe,1385.72
+ORD1538,Smartphone,Electronics,4,66.1,2022-04-19,France,South America,264.4
+ORD1539,Headphones,Electronics,3,198.08,2022-10-30,Germany,Australia,594.24
+ORD1540,Laptop,Accessories,2,233.56,2022-03-25,India,Europe,467.12
+ORD1541,Smartphone,Electronics,1,190.84,2022-03-24,Australia,North America,190.84
+ORD1542,Smartphone,Electronics,2,69.3,2022-10-18,Brazil,Asia,138.6
+ORD1543,Headphones,Electronics,3,215.28,2022-03-10,Australia,Asia,645.84
+ORD1544,Laptop,Accessories,4,378.08,2022-05-09,Germany,Asia,1512.32
+ORD1545,Charger,Accessories,2,44.79,2022-07-15,Australia,Australia,89.58
+ORD1546,Charger,Accessories,1,49.29,2022-05-20,Canada,Europe,49.29
+ORD1547,Smartphone,Accessories,3,183.84,2022-10-10,Canada,Australia,551.52
+ORD1548,Laptop,Accessories,2,471.45,2022-11-08,USA,South America,942.9
+ORD1549,Smartphone,Accessories,1,337.6,2022-08-22,France,North America,337.6
+ORD1550,Tablet,Accessories,3,342.55,2022-01-23,USA,North America,1027.65
+ORD1551,Smartphone,Electronics,1,187.34,2022-06-02,Australia,Asia,187.34
+ORD1552,Smartphone,Electronics,3,300.89,2022-10-04,Brazil,Asia,902.67
+ORD1553,Charger,Accessories,4,14.96,2022-03-02,Germany,Asia,59.84
+ORD1554,Charger,Electronics,2,321.69,2022-11-15,China,Europe,643.38
+ORD1555,Charger,Electronics,1,457.51,2022-02-21,Australia,South America,457.51
+ORD1556,Tablet,Accessories,3,310.16,2022-12-10,China,South America,930.48
+ORD1557,Charger,Electronics,1,438.11,2022-06-02,Canada,South America,438.11
+ORD1558,Laptop,Electronics,1,364.75,2022-08-25,China,South America,364.75
+ORD1559,Headphones,Electronics,2,69.07,2022-11-07,China,Asia,138.14
+ORD1560,Laptop,Electronics,4,452.2,2022-10-29,Brazil,North America,1808.8
+ORD1561,Laptop,Electronics,1,42.56,2022-02-01,China,Asia,42.56
+ORD1562,Charger,Accessories,3,271.64,2022-02-24,Australia,South America,814.92
+ORD1563,Headphones,Accessories,3,79.65,2022-12-18,Germany,Asia,238.95
+ORD1564,Headphones,Accessories,4,15.74,2022-02-05,China,South America,62.96
+ORD1565,Headphones,Electronics,3,216.8,2022-04-20,India,Australia,650.4
+ORD1566,Tablet,Accessories,4,154.57,2022-06-26,China,North America,618.28
+ORD1567,Charger,Electronics,3,248.14,2022-12-28,China,Australia,744.42
+ORD1568,Headphones,Electronics,2,292.83,2022-11-10,USA,Europe,585.66
+ORD1569,Tablet,Electronics,1,31.43,2022-10-22,Germany,Asia,31.43
+ORD1570,Smartphone,Electronics,2,70.27,2022-12-02,Australia,Europe,140.54
+ORD1571,Smartphone,Accessories,1,283.73,2022-04-07,Canada,Asia,283.73
+ORD1572,Tablet,Accessories,1,178.15,2022-08-01,USA,Australia,178.15
+ORD1573,Tablet,Electronics,1,367.3,2022-11-13,Australia,South America,367.3
+ORD1574,Charger,Accessories,2,329.62,2022-05-17,France,South America,659.24
+ORD1575,Charger,Electronics,1,424.35,2022-01-06,Germany,Asia,424.35
+ORD1576,Smartphone,Accessories,2,349.32,2022-04-19,India,South America,698.64
+ORD1577,Headphones,Accessories,4,220.67,2022-02-04,Germany,Australia,882.68
+ORD1578,Smartphone,Electronics,3,339.75,2022-02-08,France,South America,1019.25
+ORD1579,Headphones,Accessories,3,144.94,2022-05-30,France,Australia,434.82
+ORD1580,Headphones,Electronics,1,160.09,2022-04-28,France,Europe,160.09
+ORD1581,Charger,Accessories,2,396.6,2022-09-18,Brazil,Australia,793.2
+ORD1582,Laptop,Electronics,3,228.75,2022-03-28,Canada,North America,686.25
+ORD1583,Laptop,Electronics,2,401.21,2022-03-17,China,North America,802.42
+ORD1584,Tablet,Accessories,2,412.99,2022-11-09,Germany,North America,825.98
+ORD1585,Charger,Accessories,1,430.21,2022-08-02,Australia,Asia,430.21
+ORD1586,Headphones,Electronics,3,459.15,2022-10-12,Brazil,Asia,1377.45
+ORD1587,Laptop,Accessories,1,221.18,2022-08-27,Australia,Asia,221.18
+ORD1588,Headphones,Accessories,1,166.24,2022-06-14,China,Australia,166.24
+ORD1589,Laptop,Electronics,3,295.28,2022-03-28,China,Asia,885.84
+ORD1590,Laptop,Electronics,3,191.87,2022-05-21,India,Europe,575.61
+ORD1591,Laptop,Accessories,4,304.53,2022-06-09,France,North America,1218.12
+ORD1592,Charger,Electronics,4,355.74,2022-02-15,Canada,Australia,1422.96
+ORD1593,Smartphone,Electronics,2,347.32,2022-04-22,India,North America,694.64
+ORD1594,Headphones,Electronics,3,193.53,2022-02-14,USA,Asia,580.59
+ORD1595,Charger,Accessories,4,91.76,2022-09-04,Brazil,Australia,367.04
+ORD1596,Charger,Accessories,2,220.96,2022-04-14,Brazil,South America,441.92
+ORD1597,Charger,Electronics,2,79.87,2022-03-26,Canada,Europe,159.74
+ORD1598,Charger,Accessories,2,446.15,2022-05-14,China,Asia,892.3
+ORD1599,Charger,Electronics,4,179.48,2022-04-18,Australia,Asia,717.92
+ORD1600,Tablet,Accessories,3,85.69,2022-01-18,Brazil,Europe,257.07
+ORD1601,Headphones,Electronics,1,22.47,2022-04-04,Canada,Europe,22.47
+ORD1602,Charger,Electronics,2,326.45,2022-05-30,Brazil,South America,652.9
+ORD1603,Headphones,Accessories,4,322.08,2022-09-03,Brazil,Asia,1288.32
+ORD1604,Tablet,Electronics,4,176.9,2022-10-16,France,Asia,707.6
+ORD1605,Tablet,Accessories,1,45.14,2022-07-28,USA,North America,45.14
+ORD1606,Headphones,Accessories,1,210.72,2022-05-06,France,Australia,210.72
+ORD1607,Laptop,Electronics,4,162.5,2022-08-23,USA,Australia,650.0
+ORD1608,Smartphone,Electronics,3,341.79,2022-05-02,Brazil,North America,1025.37
+ORD1609,Laptop,Accessories,1,306.83,2022-05-18,India,Australia,306.83
+ORD1610,Laptop,Electronics,4,188.65,2022-04-25,Australia,Europe,754.6
+ORD1611,Laptop,Electronics,1,116.77,2022-06-11,China,Australia,116.77
+ORD1612,Charger,Electronics,3,494.14,2022-07-20,Brazil,Australia,1482.42
+ORD1613,Tablet,Electronics,2,232.46,2022-08-22,USA,North America,464.92
+ORD1614,Laptop,Electronics,1,347.25,2022-01-28,USA,South America,347.25
+ORD1615,Tablet,Accessories,3,78.87,2022-01-11,USA,Australia,236.61
+ORD1616,Headphones,Accessories,4,247.94,2022-07-25,Brazil,Australia,991.76
+ORD1617,Smartphone,Electronics,1,23.49,2022-06-16,Canada,South America,23.49
+ORD1618,Headphones,Electronics,1,257.67,2022-09-04,India,North America,257.67
+ORD1619,Headphones,Electronics,4,482.37,2022-02-16,Canada,South America,1929.48
+ORD1620,Charger,Accessories,2,198.26,2022-09-03,China,North America,396.52
+ORD1621,Smartphone,Electronics,4,29.11,2022-05-07,Brazil,Europe,116.44
+ORD1622,Headphones,Accessories,1,25.17,2022-05-27,USA,North America,25.17
+ORD1623,Headphones,Accessories,4,200.11,2022-04-28,India,Europe,800.44
+ORD1624,Smartphone,Accessories,3,88.41,2022-06-01,India,Europe,265.23
+ORD1625,Smartphone,Electronics,4,21.44,2022-03-13,Germany,North America,85.76
+ORD1626,Headphones,Accessories,1,380.54,2022-12-29,China,Asia,380.54
+ORD1627,Smartphone,Electronics,4,234.68,2022-05-17,Australia,North America,938.72
+ORD1628,Headphones,Accessories,2,151.73,2022-06-24,Australia,Australia,303.46
+ORD1629,Headphones,Electronics,4,451.04,2022-10-16,India,Australia,1804.16
+ORD1630,Charger,Accessories,2,66.91,2022-01-19,Brazil,Asia,133.82
+ORD1631,Laptop,Electronics,3,478.4,2022-07-14,USA,Europe,1435.2
+ORD1632,Headphones,Accessories,2,163.84,2022-11-26,USA,Asia,327.68
+ORD1633,Tablet,Electronics,4,445.32,2022-06-24,India,Australia,1781.28
+ORD1634,Laptop,Electronics,1,305.44,2022-12-20,Canada,Asia,305.44
+ORD1635,Laptop,Electronics,2,415.09,2022-05-21,China,North America,830.18
+ORD1636,Laptop,Electronics,3,492.17,2022-09-03,USA,Asia,1476.51
+ORD1637,Charger,Accessories,2,151.32,2022-04-03,India,Europe,302.64
+ORD1638,Headphones,Accessories,2,480.96,2022-08-27,USA,North America,961.92
+ORD1639,Charger,Electronics,2,200.85,2022-07-24,Australia,South America,401.7
+ORD1640,Headphones,Accessories,3,198.9,2022-02-17,India,Australia,596.7
+ORD1641,Charger,Electronics,4,176.79,2022-09-02,China,Australia,707.16
+ORD1642,Charger,Electronics,2,275.29,2022-11-16,India,Asia,550.58
+ORD1643,Tablet,Accessories,2,85.53,2022-11-13,Germany,North America,171.06
+ORD1644,Charger,Electronics,1,281.32,2022-10-22,India,South America,281.32
+ORD1645,Smartphone,Electronics,3,275.44,2022-05-08,India,North America,826.32
+ORD1646,Tablet,Accessories,2,383.33,2022-12-10,Brazil,Australia,766.66
+ORD1647,Charger,Electronics,3,418.49,2022-10-09,Australia,North America,1255.47
+ORD1648,Laptop,Electronics,2,225.82,2022-01-17,China,South America,451.64
+ORD1649,Smartphone,Electronics,4,158.14,2022-03-12,Brazil,Asia,632.56
+ORD1650,Smartphone,Electronics,4,137.07,2022-09-26,India,Europe,548.28
+ORD1651,Smartphone,Accessories,2,105.37,2022-11-21,China,North America,210.74
+ORD1652,Tablet,Accessories,4,38.25,2022-10-09,Germany,Europe,153.0
+ORD1653,Charger,Accessories,2,177.8,2022-11-01,China,Australia,355.6
+ORD1654,Charger,Electronics,4,142.42,2022-01-07,USA,Asia,569.68
+ORD1655,Laptop,Electronics,1,483.54,2022-11-10,Brazil,Asia,483.54
+ORD1656,Laptop,Accessories,1,283.28,2022-11-01,China,North America,283.28
+ORD1657,Smartphone,Electronics,1,180.17,2022-04-13,Australia,Asia,180.17
+ORD1658,Laptop,Electronics,3,294.43,2022-11-05,Germany,North America,883.29
+ORD1659,Tablet,Electronics,3,78.21,2022-07-12,France,North America,234.63
+ORD1660,Charger,Electronics,1,227.58,2022-08-29,India,Europe,227.58
+ORD1661,Smartphone,Accessories,3,316.85,2022-03-03,China,Asia,950.55
+ORD1662,Laptop,Accessories,4,249.56,2022-01-17,India,North America,998.24
+ORD1663,Tablet,Accessories,2,206.87,2022-06-20,Canada,Europe,413.74
+ORD1664,Tablet,Electronics,2,496.99,2022-01-25,USA,South America,993.98
+ORD1665,Laptop,Accessories,2,441.35,2022-09-08,Brazil,Europe,882.7
+ORD1666,Charger,Accessories,1,315.47,2022-09-10,USA,Europe,315.47
+ORD1667,Laptop,Electronics,3,288.99,2022-07-26,Canada,North America,866.97
+ORD1668,Smartphone,Electronics,4,314.12,2022-01-29,Canada,Australia,1256.48
+ORD1669,Laptop,Accessories,4,108.64,2022-04-27,Brazil,Australia,434.56
+ORD1670,Tablet,Accessories,1,203.62,2022-10-09,China,Australia,203.62
+ORD1671,Laptop,Accessories,4,29.34,2022-05-24,Canada,Europe,117.36
+ORD1672,Charger,Accessories,4,243.02,2022-01-25,France,North America,972.08
+ORD1673,Headphones,Electronics,4,276.08,2022-11-06,India,Asia,1104.32
+ORD1674,Laptop,Accessories,4,121.6,2022-06-05,India,Europe,486.4
+ORD1675,Charger,Accessories,3,482.37,2022-03-14,Germany,Europe,1447.11
+ORD1676,Charger,Electronics,4,455.63,2022-04-30,Australia,North America,1822.52
+ORD1677,Tablet,Accessories,2,363.85,2022-11-08,Canada,South America,727.7
+ORD1678,Charger,Electronics,1,271.36,2022-11-17,Canada,Europe,271.36
+ORD1679,Charger,Electronics,3,436.28,2022-04-03,France,South America,1308.84
+ORD1680,Charger,Electronics,4,74.02,2022-03-27,USA,South America,296.08
+ORD1681,Charger,Accessories,3,397.35,2022-12-02,USA,Australia,1192.05
+ORD1682,Smartphone,Accessories,4,71.16,2022-12-30,India,North America,284.64
+ORD1683,Smartphone,Electronics,2,399.16,2022-04-28,India,South America,798.32
+ORD1684,Tablet,Accessories,1,145.13,2022-08-21,China,North America,145.13
+ORD1685,Laptop,Accessories,4,439.77,2022-07-18,Brazil,Australia,1759.08
+ORD1686,Charger,Electronics,4,472.58,2022-07-25,Australia,North America,1890.32
+ORD1687,Laptop,Electronics,4,82.91,2022-12-05,France,Europe,331.64
+ORD1688,Laptop,Accessories,4,236.71,2022-05-27,Brazil,South America,946.84
+ORD1689,Tablet,Electronics,1,490.68,2022-09-28,Brazil,North America,490.68
+ORD1690,Charger,Accessories,1,246.87,2022-05-19,Germany,Asia,246.87
+ORD1691,Charger,Accessories,2,433.14,2022-06-30,Brazil,North America,866.28
+ORD1692,Headphones,Accessories,1,298.48,2022-01-30,Germany,South America,298.48
+ORD1693,Laptop,Accessories,4,193.91,2022-02-26,Brazil,Australia,775.64
+ORD1694,Laptop,Electronics,2,150.03,2022-08-20,France,Australia,300.06
+ORD1695,Smartphone,Electronics,2,109.58,2022-05-26,Germany,South America,219.16
+ORD1696,Headphones,Electronics,2,383.28,2022-02-17,USA,Europe,766.56
+ORD1697,Smartphone,Electronics,4,199.4,2022-07-13,Germany,Europe,797.6
+ORD1698,Smartphone,Accessories,3,260.52,2022-08-12,Germany,Australia,781.56
+ORD1699,Smartphone,Accessories,4,251.24,2022-05-16,France,Australia,1004.96
+ORD1700,Tablet,Electronics,1,292.87,2022-01-22,France,South America,292.87
+ORD1701,Tablet,Accessories,1,434.13,2022-01-06,Germany,Europe,434.13
+ORD1702,Smartphone,Accessories,4,490.56,2022-07-23,Australia,Australia,1962.24
+ORD1703,Headphones,Accessories,4,209.72,2022-08-27,Canada,Europe,838.88
+ORD1704,Laptop,Electronics,2,415.48,2022-07-04,Australia,Australia,830.96
+ORD1705,Headphones,Electronics,4,384.62,2022-12-26,France,North America,1538.48
+ORD1706,Charger,Electronics,2,291.03,2022-10-19,Australia,Asia,582.06
+ORD1707,Tablet,Accessories,1,478.46,2022-12-01,Australia,North America,478.46
+ORD1708,Laptop,Electronics,2,108.23,2022-08-08,China,Australia,216.46
+ORD1709,Laptop,Electronics,4,63.54,2022-04-26,China,Asia,254.16
+ORD1710,Charger,Electronics,1,428.44,2022-11-09,USA,Asia,428.44
+ORD1711,Charger,Electronics,3,225.18,2022-02-18,Brazil,Australia,675.54
+ORD1712,Smartphone,Electronics,2,425.01,2022-06-22,Germany,Australia,850.02
+ORD1713,Tablet,Electronics,1,447.61,2022-03-23,Canada,Europe,447.61
+ORD1714,Tablet,Accessories,2,40.6,2022-11-18,USA,Australia,81.2
+ORD1715,Headphones,Accessories,1,442.9,2022-11-29,Germany,South America,442.9
+ORD1716,Smartphone,Electronics,1,229.68,2022-02-14,Australia,Australia,229.68
+ORD1717,Smartphone,Electronics,2,260.11,2022-12-01,France,South America,520.22
+ORD1718,Smartphone,Accessories,3,317.03,2022-01-20,China,Australia,951.09
+ORD1719,Smartphone,Accessories,1,463.93,2022-08-09,India,Europe,463.93
+ORD1720,Tablet,Electronics,1,19.37,2022-05-03,Canada,South America,19.37
+ORD1721,Tablet,Electronics,1,243.65,2022-08-22,Australia,North America,243.65
+ORD1722,Smartphone,Electronics,3,346.98,2022-08-09,India,South America,1040.94
+ORD1723,Headphones,Electronics,3,364.13,2022-11-19,China,Europe,1092.39
+ORD1724,Laptop,Accessories,4,349.34,2022-12-05,Australia,South America,1397.36
+ORD1725,Laptop,Electronics,2,75.87,2022-01-03,Brazil,Australia,151.74
+ORD1726,Headphones,Electronics,3,156.7,2022-07-01,Brazil,Australia,470.1
+ORD1727,Smartphone,Electronics,2,185.77,2022-07-25,India,Europe,371.54
+ORD1728,Tablet,Electronics,4,404.17,2022-11-16,France,Asia,1616.68
+ORD1729,Laptop,Accessories,2,146.59,2022-02-09,Australia,Australia,293.18
+ORD1730,Charger,Accessories,3,113.25,2022-02-28,Germany,North America,339.75
+ORD1731,Charger,Accessories,2,479.15,2022-03-03,Australia,Europe,958.3
+ORD1732,Headphones,Electronics,3,14.34,2022-05-12,France,South America,43.02
+ORD1733,Smartphone,Electronics,2,498.93,2022-03-01,Australia,South America,997.86
+ORD1734,Laptop,Accessories,3,341.64,2022-11-27,India,North America,1024.92
+ORD1735,Smartphone,Electronics,3,415.95,2022-05-02,France,Australia,1247.85
+ORD1736,Laptop,Electronics,2,154.36,2022-04-17,China,Europe,308.72
+ORD1737,Headphones,Accessories,4,17.01,2022-04-06,Canada,North America,68.04
+ORD1738,Headphones,Accessories,1,371.56,2022-12-13,France,Australia,371.56
+ORD1739,Charger,Accessories,4,418.73,2022-08-23,Australia,Europe,1674.92
+ORD1740,Smartphone,Accessories,2,372.83,2022-03-03,China,South America,745.66
+ORD1741,Charger,Electronics,4,80.0,2022-09-13,Canada,Europe,320.0
+ORD1742,Smartphone,Electronics,3,379.18,2022-02-18,Brazil,Asia,1137.54
+ORD1743,Charger,Accessories,1,386.77,2022-12-14,Germany,Europe,386.77
+ORD1744,Tablet,Electronics,2,332.68,2022-06-08,India,Asia,665.36
+ORD1745,Tablet,Accessories,2,385.4,2022-05-04,Australia,Europe,770.8
+ORD1746,Tablet,Accessories,2,424.5,2022-11-13,Australia,Asia,849.0
+ORD1747,Tablet,Electronics,1,310.67,2022-07-26,Brazil,South America,310.67
+ORD1748,Laptop,Accessories,3,53.42,2022-02-17,Germany,Australia,160.26
+ORD1749,Tablet,Electronics,2,248.94,2022-05-16,Brazil,Asia,497.88
+ORD1750,Headphones,Electronics,4,48.05,2022-07-20,USA,Asia,192.2
+ORD1751,Headphones,Electronics,2,209.7,2022-09-07,Brazil,South America,419.4
+ORD1752,Laptop,Electronics,2,209.48,2022-11-10,China,Asia,418.96
+ORD1753,Tablet,Accessories,2,42.34,2022-12-23,Canada,North America,84.68
+ORD1754,Tablet,Electronics,2,180.92,2022-11-14,Australia,South America,361.84
+ORD1755,Tablet,Accessories,3,64.39,2022-10-22,Brazil,North America,193.17
+ORD1756,Charger,Accessories,4,406.04,2022-11-10,Australia,South America,1624.16
+ORD1757,Smartphone,Accessories,3,474.37,2022-07-28,France,Asia,1423.11
+ORD1758,Charger,Accessories,4,45.44,2022-12-21,Germany,North America,181.76
+ORD1759,Smartphone,Electronics,2,478.01,2022-07-30,Brazil,Asia,956.02
+ORD1760,Tablet,Electronics,1,266.06,2022-07-11,Canada,South America,266.06
+ORD1761,Tablet,Accessories,3,156.79,2022-02-13,China,Asia,470.37
+ORD1762,Charger,Accessories,1,47.66,2022-01-29,USA,North America,47.66
+ORD1763,Charger,Electronics,3,255.31,2022-02-28,Australia,North America,765.93
+ORD1764,Smartphone,Accessories,2,399.31,2022-03-12,Germany,Asia,798.62
+ORD1765,Headphones,Electronics,3,356.47,2022-04-02,India,Europe,1069.41
+ORD1766,Smartphone,Accessories,2,34.61,2022-09-22,Canada,South America,69.22
+ORD1767,Charger,Electronics,3,45.72,2022-08-08,India,South America,137.16
+ORD1768,Charger,Accessories,2,207.41,2022-08-03,Canada,Asia,414.82
+ORD1769,Laptop,Accessories,2,154.69,2022-10-04,Canada,Europe,309.38
+ORD1770,Charger,Electronics,4,123.87,2022-03-05,China,North America,495.48
+ORD1771,Laptop,Accessories,2,147.69,2022-12-12,China,Australia,295.38
+ORD1772,Headphones,Accessories,4,403.71,2022-10-19,China,Australia,1614.84
+ORD1773,Smartphone,Electronics,2,465.32,2022-09-02,Brazil,Asia,930.64
+ORD1774,Smartphone,Accessories,1,208.5,2022-03-03,France,Europe,208.5
+ORD1775,Laptop,Electronics,2,453.99,2022-11-28,Canada,Europe,907.98
+ORD1776,Smartphone,Electronics,1,167.53,2022-06-19,Germany,South America,167.53
+ORD1777,Charger,Accessories,1,243.45,2022-09-26,India,North America,243.45
+ORD1778,Tablet,Accessories,2,120.75,2022-09-24,China,Europe,241.5
+ORD1779,Laptop,Accessories,1,323.83,2022-02-23,Brazil,Australia,323.83
+ORD1780,Smartphone,Accessories,4,489.7,2022-01-16,China,North America,1958.8
+ORD1781,Laptop,Accessories,3,305.71,2022-01-08,India,North America,917.13
+ORD1782,Laptop,Accessories,2,185.33,2022-04-14,India,Asia,370.66
+ORD1783,Tablet,Accessories,1,327.43,2022-02-28,Australia,Europe,327.43
+ORD1784,Charger,Electronics,2,70.23,2022-11-09,Canada,Asia,140.46
+ORD1785,Laptop,Accessories,4,445.44,2022-02-09,China,Europe,1781.76
+ORD1786,Smartphone,Electronics,2,256.51,2022-08-25,India,South America,513.02
+ORD1787,Headphones,Accessories,2,230.18,2022-04-04,France,Asia,460.36
+ORD1788,Laptop,Accessories,1,297.07,2022-08-10,France,Asia,297.07
+ORD1789,Laptop,Electronics,4,316.14,2022-07-23,China,Australia,1264.56
+ORD1790,Tablet,Accessories,3,45.17,2022-05-18,Brazil,Asia,135.51
+ORD1791,Charger,Accessories,3,344.48,2022-10-27,India,Europe,1033.44
+ORD1792,Headphones,Electronics,1,128.55,2022-07-26,Australia,Australia,128.55
+ORD1793,Smartphone,Accessories,2,359.84,2022-12-02,Canada,Asia,719.68
+ORD1794,Headphones,Accessories,1,413.04,2022-03-22,Canada,Asia,413.04
+ORD1795,Smartphone,Accessories,1,403.94,2022-08-06,Brazil,South America,403.94
+ORD1796,Charger,Electronics,1,280.73,2022-01-02,Australia,Asia,280.73
+ORD1797,Smartphone,Accessories,2,264.88,2022-06-27,Canada,North America,529.76
+ORD1798,Tablet,Accessories,4,80.01,2022-12-12,Australia,Australia,320.04
+ORD1799,Tablet,Accessories,1,389.92,2022-10-06,USA,North America,389.92
+ORD1800,Tablet,Accessories,2,142.99,2022-05-26,China,Australia,285.98
+ORD1801,Tablet,Electronics,4,253.38,2022-11-14,Canada,South America,1013.52
+ORD1802,Headphones,Electronics,1,149.29,2022-08-12,France,Asia,149.29
+ORD1803,Charger,Accessories,3,75.58,2022-03-03,India,Asia,226.74
+ORD1804,Smartphone,Accessories,4,318.48,2022-10-21,Australia,Asia,1273.92
+ORD1805,Smartphone,Electronics,1,36.62,2022-08-27,Australia,Australia,36.62
+ORD1806,Tablet,Electronics,4,376.84,2022-07-14,Germany,Asia,1507.36
+ORD1807,Tablet,Accessories,4,165.62,2022-06-15,Brazil,North America,662.48
+ORD1808,Laptop,Electronics,4,10.07,2022-08-10,Germany,Asia,40.28
+ORD1809,Charger,Accessories,4,260.45,2022-03-02,Canada,South America,1041.8
+ORD1810,Headphones,Electronics,4,32.96,2022-05-09,Germany,North America,131.84
+ORD1811,Smartphone,Electronics,4,145.32,2022-06-22,Germany,Asia,581.28
+ORD1812,Laptop,Electronics,1,356.42,2022-06-05,USA,Asia,356.42
+ORD1813,Laptop,Electronics,3,40.72,2022-04-20,Australia,Europe,122.16
+ORD1814,Smartphone,Accessories,2,421.28,2022-09-26,France,Australia,842.56
+ORD1815,Headphones,Electronics,4,11.87,2022-12-22,Brazil,North America,47.48
+ORD1816,Laptop,Electronics,2,130.94,2022-10-05,France,Europe,261.88
+ORD1817,Laptop,Accessories,1,373.04,2022-03-15,USA,South America,373.04
+ORD1818,Charger,Electronics,4,164.97,2022-07-26,USA,Australia,659.88
+ORD1819,Headphones,Electronics,3,59.93,2022-10-06,Germany,North America,179.79
+ORD1820,Laptop,Accessories,2,186.51,2022-11-22,China,Asia,373.02
+ORD1821,Headphones,Electronics,4,142.49,2022-12-06,Australia,North America,569.96
+ORD1822,Smartphone,Accessories,1,422.93,2022-12-23,India,Asia,422.93
+ORD1823,Tablet,Accessories,3,163.54,2022-12-06,Australia,Australia,490.62
+ORD1824,Laptop,Accessories,2,396.58,2022-07-23,India,Asia,793.16
+ORD1825,Charger,Accessories,2,447.02,2022-06-10,Germany,South America,894.04
+ORD1826,Smartphone,Electronics,4,222.57,2022-01-28,India,Asia,890.28
+ORD1827,Headphones,Accessories,3,455.87,2022-09-14,USA,South America,1367.61
+ORD1828,Smartphone,Electronics,3,194.89,2022-06-14,France,Australia,584.67
+ORD1829,Laptop,Electronics,3,482.4,2022-03-04,India,Australia,1447.2
+ORD1830,Headphones,Electronics,3,53.75,2022-01-22,Australia,North America,161.25
+ORD1831,Tablet,Electronics,1,346.64,2022-03-11,Brazil,South America,346.64
+ORD1832,Smartphone,Electronics,3,251.97,2022-04-06,Germany,South America,755.91
+ORD1833,Laptop,Electronics,2,199.95,2022-06-12,China,Europe,399.9
+ORD1834,Charger,Electronics,2,320.03,2022-03-20,Germany,Europe,640.06
+ORD1835,Headphones,Electronics,1,354.89,2022-01-05,Canada,Europe,354.89
+ORD1836,Smartphone,Electronics,2,12.14,2022-11-12,Germany,Asia,24.28
+ORD1837,Smartphone,Electronics,2,91.81,2022-04-30,USA,Europe,183.62
+ORD1838,Tablet,Accessories,3,359.39,2022-10-29,France,South America,1078.17
+ORD1839,Tablet,Accessories,2,336.53,2022-06-27,France,Asia,673.06
+ORD1840,Charger,Accessories,1,483.36,2022-06-25,Brazil,Australia,483.36
+ORD1841,Charger,Electronics,3,382.91,2022-08-05,India,North America,1148.73
+ORD1842,Laptop,Accessories,4,475.88,2022-02-25,USA,Europe,1903.52
+ORD1843,Laptop,Accessories,3,354.24,2022-07-06,Canada,Australia,1062.72
+ORD1844,Charger,Accessories,1,156.05,2022-08-20,USA,South America,156.05
+ORD1845,Charger,Electronics,3,61.63,2022-09-12,Germany,North America,184.89
+ORD1846,Headphones,Electronics,3,393.09,2022-04-14,USA,Australia,1179.27
+ORD1847,Tablet,Electronics,1,325.63,2022-03-18,USA,North America,325.63
+ORD1848,Laptop,Electronics,3,33.61,2022-08-18,Brazil,Europe,100.83
+ORD1849,Tablet,Accessories,1,186.42,2022-09-15,Canada,South America,186.42
+ORD1850,Tablet,Accessories,1,478.83,2022-09-21,Germany,North America,478.83
+ORD1851,Charger,Accessories,4,255.2,2022-11-27,China,Australia,1020.8
+ORD1852,Headphones,Accessories,2,222.04,2022-07-01,Brazil,Europe,444.08
+ORD1853,Smartphone,Electronics,2,234.27,2022-09-13,China,Europe,468.54
+ORD1854,Headphones,Electronics,3,112.35,2022-02-07,Brazil,Australia,337.05
+ORD1855,Headphones,Electronics,3,190.67,2022-06-25,France,Australia,572.01
+ORD1856,Tablet,Accessories,4,191.21,2022-01-27,Australia,North America,764.84
+ORD1857,Headphones,Electronics,4,35.65,2022-10-03,Brazil,Asia,142.6
+ORD1858,Laptop,Electronics,4,386.11,2022-05-20,India,Europe,1544.44
+ORD1859,Tablet,Accessories,1,214.09,2022-10-26,USA,North America,214.09
+ORD1860,Laptop,Accessories,4,412.87,2022-10-14,France,Australia,1651.48
+ORD1861,Smartphone,Electronics,4,426.67,2022-04-01,Canada,North America,1706.68
+ORD1862,Tablet,Electronics,3,113.88,2022-03-02,China,Australia,341.64
+ORD1863,Smartphone,Electronics,4,332.1,2022-12-31,Australia,South America,1328.4
+ORD1864,Tablet,Electronics,1,241.42,2022-12-13,Australia,Australia,241.42
+ORD1865,Charger,Electronics,1,441.28,2022-06-12,Brazil,Australia,441.28
+ORD1866,Headphones,Electronics,3,115.71,2022-12-17,USA,Australia,347.13
+ORD1867,Charger,Accessories,4,342.13,2022-05-23,Canada,Asia,1368.52
+ORD1868,Smartphone,Accessories,4,307.8,2022-09-10,India,Australia,1231.2
+ORD1869,Headphones,Accessories,1,154.7,2022-09-26,Canada,Europe,154.7
+ORD1870,Tablet,Electronics,4,76.93,2022-10-18,USA,Europe,307.72
+ORD1871,Headphones,Accessories,4,329.3,2022-07-06,India,North America,1317.2
+ORD1872,Laptop,Electronics,4,371.91,2022-10-31,Canada,Asia,1487.64
+ORD1873,Headphones,Electronics,2,164.66,2022-10-18,India,North America,329.32
+ORD1874,Laptop,Accessories,3,325.97,2022-03-27,Brazil,Europe,977.91
+ORD1875,Headphones,Electronics,2,203.61,2022-06-15,Brazil,Europe,407.22
+ORD1876,Laptop,Electronics,3,359.47,2022-04-24,USA,South America,1078.41
+ORD1877,Smartphone,Accessories,1,107.62,2022-12-22,USA,Australia,107.62
+ORD1878,Charger,Accessories,4,446.21,2022-07-02,India,Europe,1784.84
+ORD1879,Tablet,Accessories,3,150.83,2022-07-26,Germany,North America,452.49
+ORD1880,Headphones,Electronics,2,190.22,2022-09-13,France,North America,380.44
+ORD1881,Charger,Accessories,4,38.47,2022-08-23,Australia,Australia,153.88
+ORD1882,Tablet,Accessories,1,64.64,2022-12-21,Canada,Australia,64.64
+ORD1883,Tablet,Electronics,3,262.77,2022-01-03,Canada,South America,788.31
+ORD1884,Laptop,Accessories,3,141.12,2022-07-27,Germany,Asia,423.36
+ORD1885,Smartphone,Accessories,3,419.39,2022-07-16,Germany,North America,1258.17
+ORD1886,Smartphone,Accessories,4,17.2,2022-12-07,Germany,Australia,68.8
+ORD1887,Charger,Electronics,2,195.76,2022-05-05,China,North America,391.52
+ORD1888,Smartphone,Electronics,2,175.3,2022-05-18,China,Australia,350.6
+ORD1889,Headphones,Electronics,3,19.47,2022-12-05,India,Europe,58.41
+ORD1890,Smartphone,Electronics,1,70.94,2022-01-25,China,North America,70.94
+ORD1891,Charger,Accessories,1,212.68,2022-03-09,Brazil,Europe,212.68
+ORD1892,Smartphone,Electronics,2,251.5,2022-03-02,Brazil,North America,503.0
+ORD1893,Headphones,Electronics,1,208.1,2022-01-29,USA,Asia,208.1
+ORD1894,Laptop,Accessories,2,270.16,2022-01-19,Australia,South America,540.32
+ORD1895,Charger,Accessories,3,301.61,2022-06-20,India,Europe,904.83
+ORD1896,Laptop,Accessories,2,14.86,2022-03-15,Australia,Australia,29.72
+ORD1897,Laptop,Electronics,2,237.41,2022-03-02,Canada,Asia,474.82
+ORD1898,Laptop,Electronics,3,482.11,2022-06-02,France,North America,1446.33
+ORD1899,Tablet,Electronics,1,264.33,2022-10-03,USA,Europe,264.33
+ORD1900,Tablet,Accessories,2,342.0,2022-02-17,Canada,North America,684.0
+ORD1901,Laptop,Accessories,2,162.81,2022-07-30,Canada,North America,325.62
+ORD1902,Charger,Electronics,3,389.26,2022-12-09,India,North America,1167.78
+ORD1903,Headphones,Accessories,1,388.73,2022-05-19,Germany,South America,388.73
+ORD1904,Headphones,Accessories,2,265.44,2022-04-20,Germany,South America,530.88
+ORD1905,Smartphone,Accessories,3,488.25,2022-07-02,Australia,Australia,1464.75
+ORD1906,Charger,Electronics,2,71.52,2022-01-28,USA,Europe,143.04
+ORD1907,Tablet,Accessories,4,18.3,2022-07-16,Germany,Asia,73.2
+ORD1908,Laptop,Accessories,3,387.38,2022-07-10,Canada,Asia,1162.14
+ORD1909,Smartphone,Electronics,1,405.51,2022-11-11,Germany,Asia,405.51
+ORD1910,Headphones,Electronics,1,68.9,2022-02-20,China,North America,68.9
+ORD1911,Tablet,Accessories,1,140.14,2022-05-29,Germany,South America,140.14
+ORD1912,Tablet,Accessories,1,18.6,2022-09-25,Canada,Europe,18.6
+ORD1913,Laptop,Electronics,2,153.72,2022-02-19,Australia,North America,307.44
+ORD1914,Headphones,Electronics,2,388.84,2022-09-03,India,South America,777.68
+ORD1915,Charger,Accessories,1,263.8,2022-04-23,USA,South America,263.8
+ORD1916,Tablet,Accessories,1,180.57,2022-06-19,France,Europe,180.57
+ORD1917,Laptop,Accessories,1,192.15,2022-06-15,Germany,Europe,192.15
+ORD1918,Charger,Accessories,2,10.66,2022-01-14,Brazil,Europe,21.32
+ORD1919,Headphones,Electronics,1,156.9,2022-07-22,Brazil,North America,156.9
+ORD1920,Tablet,Accessories,1,326.76,2022-10-15,Australia,Australia,326.76
+ORD1921,Charger,Accessories,4,487.36,2022-07-08,Canada,Europe,1949.44
+ORD1922,Charger,Electronics,4,425.06,2022-06-04,France,Australia,1700.24
+ORD1923,Charger,Accessories,1,21.56,2022-02-24,France,North America,21.56
+ORD1924,Tablet,Electronics,3,450.29,2022-07-01,China,Australia,1350.87
+ORD1925,Tablet,Accessories,1,393.77,2022-07-29,France,Asia,393.77
+ORD1926,Smartphone,Accessories,4,392.38,2022-03-16,Brazil,Australia,1569.52
+ORD1927,Headphones,Electronics,3,234.42,2022-10-04,India,Europe,703.26
+ORD1928,Laptop,Electronics,3,205.02,2022-05-13,Canada,North America,615.06
+ORD1929,Charger,Accessories,1,158.43,2022-12-09,Canada,Europe,158.43
+ORD1930,Smartphone,Accessories,4,42.19,2022-02-28,Germany,Asia,168.76
+ORD1931,Laptop,Accessories,4,121.84,2022-12-11,Germany,Europe,487.36
+ORD1932,Smartphone,Electronics,3,130.84,2022-07-01,Germany,Europe,392.52
+ORD1933,Tablet,Accessories,1,247.2,2022-12-05,Brazil,Europe,247.2
+ORD1934,Charger,Electronics,2,376.25,2022-11-17,Brazil,South America,752.5
+ORD1935,Laptop,Electronics,2,242.17,2022-03-05,Australia,Asia,484.34
+ORD1936,Laptop,Accessories,4,38.34,2022-11-23,Brazil,Europe,153.36
+ORD1937,Laptop,Electronics,2,479.32,2022-09-17,Brazil,Europe,958.64
+ORD1938,Laptop,Accessories,4,471.93,2022-07-12,Brazil,Europe,1887.72
+ORD1939,Laptop,Accessories,4,394.74,2022-05-23,Brazil,North America,1578.96
+ORD1940,Smartphone,Accessories,4,495.75,2022-04-14,India,South America,1983.0
+ORD1941,Charger,Accessories,2,276.8,2022-08-02,Brazil,North America,553.6
+ORD1942,Tablet,Accessories,4,481.76,2022-08-30,Australia,South America,1927.04
+ORD1943,Tablet,Electronics,3,47.05,2022-07-28,France,Europe,141.15
+ORD1944,Tablet,Electronics,1,189.18,2022-04-03,France,Asia,189.18
+ORD1945,Tablet,Accessories,1,120.44,2022-05-22,China,Australia,120.44
+ORD1946,Smartphone,Accessories,4,105.96,2022-04-22,India,Australia,423.84
+ORD1947,Headphones,Electronics,1,78.99,2022-02-28,Germany,Europe,78.99
+ORD1948,Charger,Electronics,2,314.98,2022-02-12,USA,North America,629.96
+ORD1949,Laptop,Electronics,2,392.85,2022-07-26,Brazil,Asia,785.7
+ORD1950,Headphones,Electronics,1,293.37,2022-09-25,China,South America,293.37
+ORD1951,Tablet,Accessories,2,82.01,2022-10-23,USA,Europe,164.02
+ORD1952,Headphones,Accessories,1,407.45,2022-04-28,Australia,Asia,407.45
+ORD1953,Charger,Electronics,1,321.62,2022-01-20,France,Asia,321.62
+ORD1954,Laptop,Accessories,1,200.2,2022-08-10,China,South America,200.2
+ORD1955,Laptop,Electronics,4,340.32,2022-06-15,Australia,Asia,1361.28
+ORD1956,Charger,Accessories,1,137.35,2022-05-11,China,North America,137.35
+ORD1957,Charger,Electronics,4,179.14,2022-06-05,Canada,North America,716.56
+ORD1958,Tablet,Accessories,1,459.57,2022-07-03,Australia,North America,459.57
+ORD1959,Laptop,Electronics,1,152.35,2022-03-31,France,Asia,152.35
+ORD1960,Headphones,Electronics,1,240.29,2022-04-04,France,North America,240.29
+ORD1961,Smartphone,Accessories,2,446.17,2022-01-13,India,South America,892.34
+ORD1962,Smartphone,Electronics,4,356.78,2022-11-18,China,Asia,1427.12
+ORD1963,Charger,Accessories,4,40.48,2022-10-20,Brazil,Australia,161.92
+ORD1964,Tablet,Accessories,1,82.18,2022-08-18,France,Asia,82.18
+ORD1965,Smartphone,Electronics,1,13.84,2022-11-18,China,South America,13.84
+ORD1966,Laptop,Accessories,2,319.15,2022-10-19,India,Australia,638.3
+ORD1967,Charger,Accessories,2,229.36,2022-01-26,Brazil,Asia,458.72
+ORD1968,Headphones,Accessories,2,75.79,2022-03-16,Australia,North America,151.58
+ORD1969,Charger,Accessories,4,479.39,2022-12-30,India,Europe,1917.56
+ORD1970,Headphones,Accessories,4,269.53,2022-10-26,Canada,Europe,1078.12
+ORD1971,Charger,Electronics,4,128.53,2022-05-30,Brazil,North America,514.12
+ORD1972,Charger,Accessories,1,255.3,2022-05-28,China,Europe,255.3
+ORD1973,Charger,Accessories,4,343.01,2022-01-08,France,Europe,1372.04
+ORD1974,Headphones,Accessories,3,47.36,2022-01-29,France,North America,142.08
+ORD1975,Headphones,Accessories,3,144.6,2022-10-23,China,North America,433.8
+ORD1976,Charger,Accessories,2,405.41,2022-07-28,China,Asia,810.82
+ORD1977,Smartphone,Electronics,4,235.24,2022-05-08,China,Asia,940.96
+ORD1978,Tablet,Accessories,3,277.82,2022-12-06,Germany,North America,833.46
+ORD1979,Tablet,Electronics,2,222.08,2022-04-26,Brazil,South America,444.16
+ORD1980,Tablet,Electronics,4,31.51,2022-05-24,France,Europe,126.04
+ORD1981,Headphones,Electronics,1,91.22,2022-11-14,Brazil,Asia,91.22
+ORD1982,Headphones,Electronics,3,228.32,2022-08-23,India,Europe,684.96
+ORD1983,Smartphone,Accessories,1,112.5,2022-01-07,France,Australia,112.5
+ORD1984,Tablet,Electronics,4,34.49,2022-02-14,Germany,North America,137.96
+ORD1985,Tablet,Electronics,3,423.39,2022-08-27,China,South America,1270.17
+ORD1986,Charger,Accessories,4,490.78,2022-06-04,Canada,Australia,1963.12
+ORD1987,Headphones,Accessories,1,398.64,2022-06-30,China,Australia,398.64
+ORD1988,Tablet,Accessories,3,428.35,2022-08-03,Australia,Australia,1285.05
+ORD1989,Smartphone,Electronics,1,128.57,2022-03-29,China,North America,128.57
+ORD1990,Smartphone,Accessories,4,480.71,2022-09-13,Germany,Asia,1922.84
+ORD1991,Tablet,Accessories,4,106.49,2022-03-14,Brazil,North America,425.96
+ORD1992,Headphones,Electronics,1,476.2,2022-06-28,France,Asia,476.2
+ORD1993,Smartphone,Accessories,3,497.46,2022-07-31,China,Australia,1492.38
+ORD1994,Charger,Accessories,1,358.74,2022-10-20,France,Australia,358.74
+ORD1995,Smartphone,Accessories,4,490.76,2022-08-22,USA,South America,1963.04
+ORD1996,Laptop,Accessories,1,289.07,2022-08-27,India,Asia,289.07
+ORD1997,Laptop,Electronics,4,137.18,2022-08-11,Brazil,Australia,548.72
+ORD1998,Headphones,Accessories,1,224.13,2022-04-29,France,Europe,224.13
+ORD1999,Tablet,Accessories,3,300.84,2022-11-09,Canada,South America,902.52
